@@ -97,7 +97,7 @@ api.py
 camera.py
 climate.py
 const.py
-#manifest.json
+manifest.json
 sensor.py
 
 venv/
